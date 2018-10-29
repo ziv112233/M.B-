@@ -1,4 +1,4 @@
-# M.B-
+# M.B-shop
 
 About an online application of online sporting goods and sports-related products, it is convenient for a wide variety of people to choose according to their needs, and to provide quick and convenient access and payment methods. Improves people's convenience and reduces the cumbersome process.
 In particular, it is aimed at people who do not have online payment methods, and provides them with a special cash on delivery mechanism, and also provides registration-free features. This can greatly improve the convenience of people's use.
